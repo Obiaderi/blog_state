@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "John Mike",
+        "email": "john.mike@example.com",
+        "age": 30,
+        " occupation": "Software Engineer",
+        "location": "New York"
+    },
+    {
+        "id": 2,
+        "name": "James Joy",
+        "email": "james.joy@example.com",
+        "age": 28,
+        "occupation": "Data Scientist",
+        "location": "San Francisco"
+    },
+    {
+        "id": 3,
+        "name": "Sarah Smith",
+        "email": "sarah.smith@example.com",
+        "age": 25,
+        "occupation": "UX/UI Designer",
+        "location": "London"
+    }
+]

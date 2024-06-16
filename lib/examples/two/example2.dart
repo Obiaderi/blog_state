@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'dart:developer' as devtools show log;
 
-import 'examples/two/person.dart';
+import 'person.dart';
 
 extension Log on Object {
   void log() => devtools.log(toString());
